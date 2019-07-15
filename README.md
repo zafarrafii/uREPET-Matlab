@@ -2,7 +2,7 @@
 This repository contains a Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. 
 
 - [urepet Matlab GUI](#urepet-matlab-gui)
-- [Reference](#reference)
+- [References](#references)
 - [Author](#author)
 
 ## urepet Matlab GUI
@@ -73,9 +73,11 @@ Functionalities:
 <img src="images/select_urepet_background_undo_save.gif" width="1000">
 
 
-## Reference
+## References
 
 - Zafar Rafii, Antoine Liutkus, and Bryan Pardo. "A Simple User Interface System for Recovering Patterns Repeating in Time and Frequency in Mixtures of Sounds," *40th IEEE International Conference on Acoustics, Speech and Signal Processing*, Brisbane, Australia, April 19-24, 2015. [[article](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015.pdf)][[poster](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015%20(poster).pdf)]
+
+- Christian Schorkhuber and Anssi Klapuri. "Constant-Q Transform Toolbox for Music Processing," *AES 53rd International Conference on Semantic Audio*, London, UK, January 26-29, 2014. [[article](https://iem.kug.ac.at/fileadmin/media/iem/projects/2010/smc10_schoerkhuber.pdf)][[website](https://www.cs.tut.fi/sgn/arg/CQT/)]
 
 
 ## Author
