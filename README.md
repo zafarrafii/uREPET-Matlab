@@ -1,6 +1,10 @@
 # uREPET
 This repository contains a Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. 
 
+- [urepet Matlab GUI](#urepet-matlab-gui)
+- [Reference](#reference)
+- [Author](#author)
+
 ## urepet Matlab GUI
 
 Simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds.
@@ -40,7 +44,7 @@ Functionalities:
 - If a right mouse click is done on the signal axes, any selection line or region is removed.
 - If a left mouse click and drag is done on the spectrogram axes, a customizable rectangle is created; the region-of-interest (ROI) can then be processed by clicking on the uREPET button; the rectangle can be resized and moved, and also deleted by doing a right mouse click on it.
 
-<img src="images/urepet/open_play_select.gif" width="1000">
+<img src="images/open_play_select.gif" width="1000">
 
 ### Zoom
 
@@ -52,7 +56,7 @@ Functionalities:
 - Pan view of graph interactively (see https://www.mathworks.com/help/matlab/ref/pan.html)
 - If used on the signal axes, pan horizontally only; the x-axis limits of the signal axes and the spectrogram axes will stay synchronized.
 
-<img src="images/urepet/zoom_pan.gif" width="1000">
+<img src="images/zoom_pan.gif" width="1000">
 
 ### uREPET
 
@@ -66,9 +70,19 @@ Functionalities:
 
 - Undo the last changes done by uREPET.
 
-<img src="images/urepet/select_urepet_background_undo_save.gif" width="1000">
+<img src="images/select_urepet_background_undo_save.gif" width="1000">
 
 
-## References
+## Reference
 
 - Zafar Rafii, Antoine Liutkus, and Bryan Pardo. "A Simple User Interface System for Recovering Patterns Repeating in Time and Frequency in Mixtures of Sounds," *40th IEEE International Conference on Acoustics, Speech and Signal Processing*, Brisbane, Australia, April 19-24, 2015. [[article](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015.pdf)][[poster](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015%20(poster).pdf)]
+
+
+## Author
+
+- Zafar Rafii
+- zafarrafii@gmail.com
+- [Website](http://zafarrafii.com/)
+- [CV](http://zafarrafii.com/Zafar%20Rafii%20-%20C.V..pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=8wbS2EsAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/zafarrafii/)
