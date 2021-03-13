@@ -1,12 +1,8 @@
 # uREPET-Matlab
 
-This repository contains a Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. 
+Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. 
 
-- [urepet Matlab GUI](#urepet-matlab-gui)
-- [References](#references)
-- [Author](#author)
-
-## urepet Matlab GUI
+## urepet.m
 
 Simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds.
 
@@ -81,11 +77,12 @@ Functionalities:
 - Christian Schorkhuber and Anssi Klapuri. "Constant-Q Transform Toolbox for Music Processing," *AES 53rd International Conference on Semantic Audio*, London, UK, January 26-29, 2014. [[article](https://iem.kug.ac.at/fileadmin/media/iem/projects/2010/smc10_schoerkhuber.pdf)][[website](https://www.cs.tut.fi/sgn/arg/CQT/)]
 
 
-## Author
+# Author
 
 - Zafar Rafii
 - zafarrafii@gmail.com
-- [Website](http://zafarrafii.com/)
+- http://zafarrafii.com/
 - [CV](http://zafarrafii.com/Zafar%20Rafii%20-%20C.V..pdf)
-- [Google Scholar](https://scholar.google.com/citations?user=8wbS2EsAAAAJ&hl=en)
+- [GitHub](https://github.com/zafarrafii)
 - [LinkedIn](https://www.linkedin.com/in/zafarrafii/)
+- [Google Scholar](https://scholar.google.com/citations?user=8wbS2EsAAAAJ&hl=en)
