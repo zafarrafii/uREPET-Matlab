@@ -2,6 +2,15 @@
 
 Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds. 
 
+Files:
+- [`urepet.m`](#urepet): Matlab class with the REPET methods.
+- [`audio_file.wav`](#audio_filewav): audio file used for the examples.
+- [`audio_file.wav`](#audio_filewav): audio file used for the examples.
+- [`audio_file.wav`](#audio_filewav): audio file used for the examples.
+
+See also:
+- [REPET-Python](https://github.com/zafarrafii/REPET-Matlab): REPET in **Python** for audio source separation.
+
 ## urepet.m
 
 Simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds.
@@ -70,7 +79,12 @@ Functionalities:
 <img src="images/select_urepet_background_undo_save.gif" width="1000">
 
 
-## References
+## audio_file.wav
+
+23 second audio excerpt from the song *Que Pena Tanto Faz* performed by *Tamy*.
+
+
+# References
 
 - Zafar Rafii, Antoine Liutkus, and Bryan Pardo. "A Simple User Interface System for Recovering Patterns Repeating in Time and Frequency in Mixtures of Sounds," *40th IEEE International Conference on Acoustics, Speech and Signal Processing*, Brisbane, Australia, April 19-24, 2015. [[article](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015.pdf)][[poster](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20A%20Simple%20User%20Interface%20System%20for%20Recovering%20Patterns%20Repeating%20in%20Time%20and%20Frequency%20in%20Mixtures%20of%20Sounds%20-%202015%20(poster).pdf)]
 
