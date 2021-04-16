@@ -79,17 +79,17 @@ Functionalities:
 
 <img src="images/select_urepet_background_undo_save.gif" width="1000">
 
+## Audio files
+
+- `audio_file.wav`: 23 second audio excerpt from the song *Que Pena Tanto Faz* performed by *Tamy*.
+- `melody&cough.wav`: piano melody with a cough masking the first note.
+- `accompaniment&vocals.wav`: song excerpt with female vocals on a guitar accompaniment.
+- `speech&noise.wav`: male speech being masked by an alarm noise.
 
 ## CQT_toolbox_2013
 
+See: https://www.cs.tut.fi/sgn/arg/CQT/
 
-
-## Audio files
-
-- audio_file.wav: 23 second audio excerpt from the song *Que Pena Tanto Faz* performed by *Tamy*.
-- melody&cough.wav
-- accompaniment&vocals.wav
-- speech&noise.wav
 
 # References
 
