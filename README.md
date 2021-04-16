@@ -14,7 +14,7 @@ See also:
 
 ## urepet.m
 
-Simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds.
+This Matlab GUI implements uREPET.
 
 Functionalities:
 
