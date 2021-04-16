@@ -14,8 +14,6 @@ See also:
 
 ## urepet.m
 
-This Matlab GUI implements uREPET.
-
 Functionalities:
 
 - [Open](#open)
