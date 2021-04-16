@@ -4,8 +4,8 @@ Matlab GUI for uREPET, a simple user interface system for recovering patterns re
 
 Files:
 - [`urepet.m`](#urepet): Matlab GUI for uREPET.
-- `audio_file.wav`, `melody&cough.wav`, `accompaniment&vocals.wav`, `speech&noise.wav`: audio files for testing.
-- [`CQT_toolbox_2013`](https://www.cs.tut.fi/sgn/arg/CQT/): Matlab toolbox for computing the constant-Q transform (CQT) and its inverse.
+- [`Audio files`](#audiofiles): audio files for testing.
+- [`CQT_toolbox_2013`](#cqttoolbox2013): Matlab toolbox for computing the constant-Q transform (CQT) and its inverse.
 
 
 See also:
@@ -80,9 +80,11 @@ Functionalities:
 <img src="images/select_urepet_background_undo_save.gif" width="1000">
 
 
-## CQT_toolbox
+## CQT_toolbox_2013
 
-## Audio
+
+
+## Audio files
 
 - audio_file.wav: 23 second audio excerpt from the song *Que Pena Tanto Faz* performed by *Tamy*.
 - melody&cough.wav
