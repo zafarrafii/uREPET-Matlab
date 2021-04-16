@@ -4,10 +4,7 @@ Matlab GUI for uREPET, a simple user interface system for recovering patterns re
 
 Files:
 - [`urepet.m`](#urepet): Matlab GUI for uREPET.
-- [`audio_file.wav`](#audio_filewav): music audio file to use as an example.
-- [`melody&cough.wav`](#melodycoughwav): melody+cough file to use as an example.
-- [`accompaniment&vocals.wav`](#accompanimentvocalswav): accompaniment+vocals file to use as an example.
-- [`speech&noise.wav`](#speechnoisewav): speech+noise file to use as an example.
+- `audio_file.wav`, `melody&cough.wav`, `accompaniment&vocals.wav`, `speech&noise.wav`: audio files for testing.
 
 See also:
 - [REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab): REPET in **Matlab** for audio source separation.
