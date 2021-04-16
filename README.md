@@ -4,8 +4,8 @@ Matlab GUI for uREPET, a simple user interface system for recovering patterns re
 
 Files:
 - [`urepet.m`](#urepet): Matlab GUI for uREPET.
-- [`Audio files`](#audiofiles): audio files for testing.
-- [`CQT_toolbox_2013`](#cqttoolbox2013): Matlab toolbox for computing the constant-Q transform (CQT) and its inverse.
+- [`Audio files`](#audio-files): audio files for testing.
+- [`CQT_toolbox_2013`](#cqt_toolbox_2013): Matlab toolbox for computing the constant-Q transform (CQT) and its inverse.
 
 
 See also:
