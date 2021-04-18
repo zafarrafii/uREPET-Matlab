@@ -7,10 +7,9 @@ Files:
 - [`Audio files`](#audio-files): audio files for testing.
 - [`CQT_toolbox_2013`](#cqt_toolbox_2013): Matlab toolbox for computing the constant-Q transform (CQT) and its inverse.
 
-
 See also:
 - [REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab): REPET in Matlab for audio source separation.
-- [REPET-GUI-Matlab](https://github.com/zafarrafii/REPET-GUI-Matlab): REPET GUI in Matlab for audio source separation.
+- [REPET-GUI-Matlab](https://github.com/zafarrafii/REPET-GUI-Matlab): Matlab GUI to demo the original REPET and REPET-SIM.
 
 ## urepet.m
 
