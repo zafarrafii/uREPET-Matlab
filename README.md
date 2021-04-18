@@ -9,7 +9,7 @@ Files:
 
 See also:
 - [REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab): REPET in Matlab for audio source separation.
-- [REPET-GUI-Matlab](https://github.com/zafarrafii/REPET-GUI-Matlab): Matlab GUI to demo the original REPET and REPET-SIM.
+- [REPET-GUI-Matlab](https://github.com/zafarrafii/REPET-GUI-Matlab): Matlab GUIs to demo the original REPET and REPET-SIM.
 
 ## urepet.m
 
