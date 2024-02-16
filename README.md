@@ -98,7 +98,6 @@ See: https://www.cs.tut.fi/sgn/arg/CQT/
 # Author
 
 - Zafar Rafii
-- zafarrafii@gmail.com
 - http://zafarrafii.com/
 - [CV](http://zafarrafii.com/Zafar%20Rafii%20-%20C.V..pdf)
 - [GitHub](https://github.com/zafarrafii)
